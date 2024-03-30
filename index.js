@@ -8,3 +8,7 @@ function help() {
 function c() {
     return 'd';
 }
+
+function f() {
+    return 'p';
+}
