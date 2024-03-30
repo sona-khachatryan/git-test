@@ -12,3 +12,7 @@ function f() {
 function c() {
     return 'd';
 }
+
+function f() {
+    return 'p';
+}
