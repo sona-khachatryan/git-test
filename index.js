@@ -1,10 +1,6 @@
 function b() {
-    return 1;
+    return 3;
 }
 function help() {
     console.log('help');
-}
-
-function b() {
-    return 1;
 }
