@@ -6,5 +6,5 @@ function help() {
 }
 
 function c() {
-    return 'c';
+    return 'd';
 }
