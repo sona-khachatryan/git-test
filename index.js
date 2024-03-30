@@ -4,3 +4,7 @@ function b() {
 function help() {
     console.log('help');
 }
+
+function c() {
+    return 'd';
+}
